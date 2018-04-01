@@ -1,3 +1,2 @@
 # MetNum_Py
-
-Jupyter notebooks from the course in numerical methods with python
+Jupyter notebooks for my course in numerical methods with python
