@@ -23,8 +23,8 @@ Jupyter notebooks de mi curso general en métodos numéricos
 <ol start="3">
   <li> Métodos de Regresion e introducción a la Ciencia de Datos
     <ul>
-      <li>Minimos cuadrados (modelos lineales)</li>
-      <li>Mínimos cuadrados (modelos no-lineales)</li>
+      <li>Minimos cuadrados de modelos lineales</li>
+      <li>Mínimos cuadrados de modelos no-lineales</li>
     </ul>
   </li>
 </ol>
