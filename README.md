@@ -11,7 +11,20 @@ Jupyter notebooks de mi curso general en métodos numéricos
     </ul>
   </li>
 </ol>
-<ol>
-  <li> Métodos de Interpolación y Regresión </li>
-  
+<ol start="2">
+  <li> Métodos de Interpolación
+    <ul>
+      <li> Polinomios de Newton y Lagrange </li>
+      <li> Teorema de Interpolacion </li>
+      <li> Trazadores Cúbicos </li>
+    </ul>
+  </li>
+</ol>
+<ol start="3">
+  <li> Métodos de Regresion e introducción a la Ciencia de Datos
+    <ul>
+      <li> Minimos cuadrados (modelos lineales) </li>
+      <li> Mínimos cuadrados (modelos no-lineales) </li>
+    </ul>
+  </li>
 </ol>
