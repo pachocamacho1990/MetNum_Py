@@ -14,7 +14,7 @@ Jupyter notebooks de mi curso general en métodos numéricos
   </li>
 </ol>
 <ol start="2">
-  <li> Métodos de Interpolación
+  <li> [Métodos de Interpolación](https://github.com/pachocamacho1990/MetNum_Py/tree/master/Interpolacion)
     <ul>
       <li> Polinomios de Newton y Lagrange </li>
       <li> Teorema de Interpolacion </li>
