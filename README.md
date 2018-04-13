@@ -34,5 +34,5 @@ Solución de ecuaciones diferenciales ordinarias
     <li>Método de Euler y Euler Mejorado</li>
     <li>Métodos de Taylor</li>
     <li>Metodos de Runge-Kutta</li>
-    <li> Método de Verlet>/li>
+    <li> Método de Verlet</li>
     </ul>
