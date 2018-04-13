@@ -37,6 +37,9 @@ Solución de ecuaciones diferenciales ordinarias
 <li> Método de Verlet</li>
 </ul>
 
+# Examenes antiguos
+* **Examen de primer corte (2018-I):** [solución de ecuaciones en una variable](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_1/sol_1erParcial-2018-1.ipynb) 
+
 # Agradecimientos
 Parte del contenido de este curso se apoya en el libro: 
 
