@@ -19,7 +19,8 @@ Solución numérica de ecuaciones
 
 [Métodos de Regresion](https://github.com/pachocamacho1990/MetNum_Py/tree/master/Regresion)
     <ul>
-      <li>Minimos cuadrados e intro a Scikit-Learn</li>
+    <li>Minimos cuadrados lineales</li>
+    <li>Introduccion a Scikit-Learn</li>
     </ul>
     
 Solución de sistemas de ecuaciones
@@ -30,7 +31,8 @@ Solución de sistemas de ecuaciones
 
 Solución de ecuaciones diferenciales ordinarias
     <ul>
-      <li>Método de Euler y Euler Mejorado</li>
-      <li>Métodos de Taylor</li>
-      <li>Metodos de Runge-Kutta</li>
+    <li>Método de Euler y Euler Mejorado</li>
+    <li>Métodos de Taylor</li>
+    <li>Metodos de Runge-Kutta</li>
+    <li> Método de Verlet>/li>
     </ul>
