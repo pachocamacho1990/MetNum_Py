@@ -1,7 +1,9 @@
+
 # MetNum_Py
 Jupyter notebooks de mi curso general en métodos numéricos
 
 # Contenidos
+
 <ol start="1">
   <li> Solución numérica de ecuaciones
     <ul>
@@ -21,10 +23,9 @@ Jupyter notebooks de mi curso general en métodos numéricos
   </li>
 </ol>
 <ol start="3">
-  <li> Métodos de Regresion e introducción a la Ciencia de Datos
+  <li> Métodos de Regresion
     <ul>
-      <li>Minimos cuadrados</li>
-      <li>Introduccion a Scikit-Learn</li>
+      <li>Minimos cuadrados e intro a Scikit-Learn</li>
     </ul>
   </li>
 </ol>
@@ -39,7 +40,7 @@ Jupyter notebooks de mi curso general en métodos numéricos
 <ol start="5">
   <li> Solución de ecuaciones diferenciales ordinarias
     <ul>
-      <li>Método de Euler y Euler Mejorado</li>
+      <li>Método de Euler y Euler Mejorado</li>
       <li>Métodos de Taylor</li>
       <li>Metodos de Runge-Kutta</li>
     </ul>
