@@ -3,11 +3,15 @@ El material contenido en este repositorio sirve de soporte dinámico para un cur
 
 # Pautas para empezar
 
-* Para descarga de una copia local del repositorio (usando [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)) en sistemas LINUX/UNIX, usar en la terminal:
+Para descarga de una copia local del repositorio: 
+
+* hacer click en la opcion _Clone or download_ y luego escoger _Download ZIP_ 
+
+* usando [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) en sistemas LINUX/UNIX, usar en la terminal:
 ```
 git clone https://github.com/pachocamacho1990/MetNum_Py.git
 ```
-* Para poder usar los contenidos de este repositorio desde un computador personal se recomienda instalar la version completa de [Anaconda](https://conda.io/docs/user-guide/install/index.html) (que incluye iPython y Jupyter Notebook). Luego, se sugiere cargar los notebooks de Jupyter usando [Jupyter lab](http://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). 
+Para poder usar los contenidos de este repositorio desde un computador personal se recomienda instalar la version completa de [Anaconda](https://conda.io/docs/user-guide/install/index.html) (que incluye iPython y Jupyter Notebook). Luego, se sugiere cargar los notebooks de Jupyter usando [Jupyter lab](http://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). 
 
 * La base de ejecucion en los notebooks de Jupyter es el lenguaje iPython, se recomienda leer la documentacion sobre su uso [aquí](http://ipython.org/documentation.html).
 
