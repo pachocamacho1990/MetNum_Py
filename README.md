@@ -1,4 +1,4 @@
-# MetNum_Py
+# Métodos Numéricos con Python
 El material contenido en este repositorio sirve de soporte dinámico para un curso general de métodos numéricos para ciencias e ingeniería. 
 
 # Pautas para empezar
