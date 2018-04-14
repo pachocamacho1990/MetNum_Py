@@ -48,6 +48,13 @@ Solución de ecuaciones diferenciales ordinarias
 * Métodos de Runge-Kutta
 * Método de Verlet
 
+Ecuaciones en derivadas parciales: diferencias finitas.
+
+* Modelos 1D: Advección y difusión
+* Modelos 2D: Advección y difusión
+* Cuantificación del error numérico
+* Ecuación de Navier-Stokes
+
 # Exámenes antiguos
 * **Examen de primer corte (2018-I):** [solución de ecuaciones en una variable](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_1/sol_1erParcial-2018-1.ipynb) 
 
