@@ -17,7 +17,7 @@ Para poder usar los contenidos de este repositorio desde un computador personal 
 
 * Los notebooks también se pueden cargar online desde la pagina de [Jupyter](http://jupyter.org) (en la opcion **Try it in your browser**). 
 
-* el repositorio puede cargarse online en un ambiente interactivo usando binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pachocamacho1990/MetNum_Py/master)
+* El repositorio puede cargarse online en un ambiente interactivo usando binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pachocamacho1990/MetNum_Py/master)
 
 # Contenidos
 
