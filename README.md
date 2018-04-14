@@ -1,43 +1,38 @@
 # MetNum_Py
-El material contenido en este repositorio sirve de soporte dinámico para un curso general en métodos numéricos para ciencias e ingeniería.
+El material contenido en este repositorio sirve de soporte dinámico para un curso general de métodos numéricos para ciencias e ingeniería.
 
 # Contenidos
 
 Solución numérica de ecuaciones
-<ul>
-<li> Métodos de Bisección y posición Falsa </li>
-<li> Métodos de Newton y Secante </li>
-<li> Método del punto fijo </li>
-</ul>
+
+* Métodos de Bisección y posición Falsa
+* Métodos de Newton y Secante
+* Método del punto fijo
 
 [Métodos de Interpolación](https://github.com/pachocamacho1990/MetNum_Py/tree/master/Interpolacion)
-<ul>
-<li> Polinomios de Newton y Lagrange </li>
-<li> Teorema de Interpolacion </li>
-<li> Trazadores Cúbicos </li>
-</ul>
+
+* Polinomios de Newton y Lagrange
+* Teorema de Interpolacion
+* Trazadores Cúbicos
 
 [Métodos de Regresion](https://github.com/pachocamacho1990/MetNum_Py/tree/master/Regresion)
-<ul>
-<li>Minimos cuadrados lineales</li>
-<li>Introduccion a Scikit-Learn</li>
-</ul>
+
+* Mínimos cuadrados lineales
+* Introduccion a Scikit-Learn
     
 Solución de sistemas de ecuaciones
-<ul>
-<li>Reducción Gaussiana</li>
-<li>Factorizacion LU</li>
-</ul>
+
+* Reducción Gaussiana
+* Factorizacion LU
 
 Solución de ecuaciones diferenciales ordinarias
-<ul>
-<li>Método de Euler y Euler Mejorado</li>
-<li>Métodos de Taylor</li>
-<li>Metodos de Runge-Kutta</li>
-<li> Método de Verlet</li>
-</ul>
 
-# Examenes antiguos
+* Método de Euler y Euler Mejorado
+* Métodos de Taylor
+* Métodos de Runge-Kutta
+* Método de Verlet
+
+# Exámenes antiguos
 * **Examen de primer corte (2018-I):** [solución de ecuaciones en una variable](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_1/sol_1erParcial-2018-1.ipynb) 
 
 # Agradecimientos
