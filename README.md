@@ -1,7 +1,7 @@
 # MetNum_Py
 El material contenido en este repositorio sirve de soporte dinámico para un curso general de métodos numéricos para ciencias e ingeniería. 
 
-* Para descarga de una copia local del repositorio (usando git) en sistemas LINUX/UNIX con permisos de administrador, usar en la terminal:
+* Para descarga de una copia local del repositorio (usando [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)) en sistemas LINUX/UNIX con permisos de administrador, usar en la terminal:
 ```
 sudo git clone https://github.com/pachocamacho1990/MetNum_Py.git
 ```
