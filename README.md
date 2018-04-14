@@ -46,4 +46,4 @@ Solución de ecuaciones diferenciales ordinarias
 # Agradecimientos
 Parte del contenido de este curso se apoya en el libro: 
 
-* **Arévalo Ovalle, D., Bernal Yermanos, M. A., & Posada Restrepo, J. A.** (2017), *Matemáticas para Ingeniería. Métodos numéricos con Python*, Bogotá: Editorial Politécnico Grancolombiano.
+* **Arévalo Ovalle, D., Bernal Yermanos, M. A., & Posada Restrepo, J. A.** (2017), *Matemáticas para Ingeniería. Métodos numéricos con Python*, Bogotá: Editorial Politécnico Grancolombiano ([click aquí](http://editorial.poligran.edu.co/matematicas-para-ingenieria-metodos-numericos-con-python.html#.WtFfwyOZPOQ)). 
