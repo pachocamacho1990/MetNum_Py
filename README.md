@@ -7,6 +7,8 @@ git clone https://github.com/pachocamacho1990/MetNum_Py.git
 ```
 * Para poder usar los contenidos de este repositorio desde un computador personal se recomienda instalar la version completa de [Anaconda](https://conda.io/docs/user-guide/install/index.html). Luego, se sugiere cargar los notebooks de Jupyter usando [Jupyter lab](http://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html). 
 
+* La base de ejecucion en los notebooks de Jupyter es el lenguaje iPython, recomienda leer la documentacion de su uso [aquí](http://ipython.org/documentation.html).
+
 # Contenidos
 
 Solución numérica de ecuaciones
