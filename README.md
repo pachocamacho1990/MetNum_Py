@@ -11,7 +11,7 @@ git clone https://github.com/pachocamacho1990/MetNum_Py.git
 
 * La base de ejecucion en los notebooks de Jupyter es el lenguaje iPython, se recomienda leer la documentacion sobre su uso [aquí](http://ipython.org/documentation.html).
 
-* Los notebooks también se pueden cargar online desde la pagina de [Jupyter](http://jupyter.org). 
+* Los notebooks también se pueden cargar online desde la pagina de [Jupyter](http://jupyter.org) (en la opcion **Try it in your browser**). 
 
 # Contenidos
 
