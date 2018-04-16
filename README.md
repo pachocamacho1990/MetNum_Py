@@ -60,7 +60,7 @@ Ecuaciones en derivadas parciales: diferencias finitas.
 # Exámenes antiguos
 * **Examen de primer corte (2018-I):** [solución de ecuaciones en una variable](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_1/sol_1erParcial-2018-1.ipynb) 
 
-* **Examen de segundo corte (2017-II:** [métodos de interpolación](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_2/sol_2doParcial-2017-II.ipynb)
+* **Examen de segundo corte (2017-II):** [métodos de interpolación](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_2/sol_2doParcial-2017-II.ipynb)
 
 # Agradecimientos
 Parte del contenido de este curso se apoya en el libro: 
