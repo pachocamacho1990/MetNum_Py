@@ -1,3 +1,6 @@
+PARA REALIZAR ESTA ACTIVIDAD DEBE ABRIR EL NOTEBOOK DE JUPYTER CONTENIDO EN ESTA CARPETA. A CONTINUACION ESTAN LOS DETALLES SOBRE LA BASE DE DATOS A USAR PARA EL TALLER.
+
+
 ==========================================
 Bike Sharing Dataset
 ==========================================
