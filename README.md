@@ -62,10 +62,12 @@ Ecuaciones en derivadas parciales: diferencias finitas.
 
 * **Examen de segundo corte (2017-II):** [métodos de interpolación](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_2/sol_2doParcial-2017-II.ipynb)
 
-# Agradecimientos
-Parte del contenido de este curso se apoya en el libro: 
+# Agradecimientos (Bibliografía)
+Parte del contenido de este curso se apoya en los siguientes libros: 
 
 * **Arévalo Ovalle, D., Bernal Yermanos, M. A., & Posada Restrepo, J. A.** (2017), *Matemáticas para Ingeniería. Métodos numéricos con Python*, Bogotá: Editorial Politécnico Grancolombiano ([click aquí](http://editorial.poligran.edu.co/matematicas-para-ingenieria-metodos-numericos-con-python.html#.WtFfwyOZPOQ)). 
+
+* **Sauer, Timothy**, Análisis numérico. Segunda edición. PEARSON EDUCACIÓN. México. 2013([click aquí](http://recursosmcc.pearsonenespanol.com/sauer/)).
 
 El curso se apoya en las siguientes referencias:
 
