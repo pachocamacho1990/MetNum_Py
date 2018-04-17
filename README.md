@@ -69,6 +69,6 @@ Parte del contenido de este curso se apoya en los siguientes libros:
 
 * **Sauer, Timothy**, Análisis numérico. Segunda edición. PEARSON EDUCACIÓN. México. 2013([click aquí](http://recursosmcc.pearsonenespanol.com/sauer/)).
 
-El curso se apoya en las siguientes referencias:
+Para los talleres el curso se apoya en las siguientes referencias:
 
 * **Fanaee-T, Hadi, and Gama, Joao**, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, [doi:10.1007/s13748-013-0040-3](http://dx.doi.org/10.1007/s13748-013-0040-3).
