@@ -58,9 +58,10 @@ Ecuaciones en derivadas parciales: diferencias finitas.
 * Ecuación de Navier-Stokes
 
 # Exámenes antiguos
-* **Examen de primer corte (2018-I):** [solución de ecuaciones en una variable](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_1/sol_1erParcial-2018-1.ipynb) 
 
-* **Examen de segundo corte (2017-II):** [métodos de interpolación](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_2/sol_2doParcial-2017-II.ipynb)
+* [**Examen de primer corte (2018-I):**](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_1/sol_1erParcial-2018-1.ipynb) 
+
+* [**Examen de segundo corte (2017-II):**](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_2/sol_2doParcial-2017-II.ipynb)
 
 # Agradecimientos (Bibliografía)
 Parte del contenido de este curso se apoya en los siguientes libros: 
