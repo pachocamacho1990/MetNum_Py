@@ -38,7 +38,7 @@ Solución numérica de ecuaciones
 * Mínimos cuadrados lineales
 * Introduccion a Scikit-Learn
     
-Solución de sistemas de ecuaciones
+[Solución de sistemas de ecuaciones](https://github.com/pachocamacho1990/MetNum_Py/tree/master/Sistemas_Ecuaciones)
 
 * Reducción Gaussiana
 * Factorizacion LU
