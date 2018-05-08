@@ -43,7 +43,7 @@ Solución numérica de ecuaciones
 * Reducción Gaussiana
 * Factorizacion LU
 
-Solución de ecuaciones diferenciales ordinarias
+[Solución de ecuaciones diferenciales ordinarias](https://github.com/pachocamacho1990/MetNum_Py/tree/master/EDOs)
 
 * Método de Euler y Euler Mejorado
 * Métodos de Taylor
