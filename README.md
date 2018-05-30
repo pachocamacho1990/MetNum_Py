@@ -67,6 +67,10 @@ Ecuaciones en derivadas parciales: diferencias finitas.
 
 * [**Examen de segundo corte (2018-I)**](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_2/sol_2doParcial-2018-I.ipynb)
 
+### Sistemas de ecuaciones y ecuaciones diferenciales ordinarias:
+
+* [**Examen de tercer corte (2018-I)**](https://github.com/pachocamacho1990/MetNum_Py/blob/master/Examen_3/3er_parcial_2018-I-sol.ipynb)
+
 # Agradecimientos (Bibliografía)
 Parte del contenido de este curso se apoya en los siguientes libros: 
 
