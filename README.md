@@ -19,6 +19,8 @@ Para poder usar los contenidos de este repositorio desde un computador personal 
 
 * El repositorio puede cargarse online en un ambiente interactivo usando binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pachocamacho1990/MetNum_Py/master)
 
+* También es posible usar un ambiente interactivo y colaborativo en Deepnote aquí: [<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https%3A%2F%2Fgithub.com%2Fpachocamacho1990%2FMetNum_Py)
+
 # Contenidos
 
 Solución numérica de ecuaciones
